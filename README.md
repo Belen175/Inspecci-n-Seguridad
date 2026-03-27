@@ -1,1 +1,1 @@
-# Inspecci-n-Seguridad
+# Inspeccion-Seguridad
